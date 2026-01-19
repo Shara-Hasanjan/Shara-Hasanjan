@@ -77,7 +77,8 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shara-Hasanjan&theme=onedark&no-frame=true&row=1&column=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shara-Hasanjan&theme=flat&no-frame=true&margin-w=10"/>
 </p>
+
 
 
