@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Undergraduate | IIT Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Shara-Hasanjan&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
