@@ -39,10 +39,6 @@
 
 ---
 
-
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
@@ -59,10 +55,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shara-Hasanjan&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shara-Hasanjan&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
@@ -75,12 +74,12 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shara-Hasanjan&theme=onedark&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shara-Hasanjan&theme=onedark&no-frame=true&row=1&column=5"/>
 </p>
 
 ---
 
-### 🐍 Contribution Graph
+### 🐍 Contribution Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shara-Hasanjan/Shara-Hasanjan/output/snake.svg" alt="snake animation"/>
