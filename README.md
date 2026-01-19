@@ -87,4 +87,22 @@
   <img src="https://img.shields.io/badge/📚%20Learning-DSA%20%7C%20Web%20Dev-purple?style=for-the-badge"/>
 </p>
 
+---
+
+### 📈 Skill Proficiency
+
+**Frontend**  
+🟩🟩🟩🟩⬜ HTML / CSS  
+🟩🟩🟩🟩⬜ JavaScript  
+🟩🟩🟩⬜⬜ React  
+
+**Backend**  
+🟩🟩🟩⬜⬜ Node.js  
+🟩🟩⬜⬜⬜ Java  
+
+**Programming**  
+🟩🟩🟩🟩⬜ Python  
+🟩🟩🟩⬜⬜ Data Structures  
+
+
 
