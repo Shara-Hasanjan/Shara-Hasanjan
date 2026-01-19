@@ -89,20 +89,7 @@
 
 ---
 
-### 📈 Skill Proficiency
 
-**Frontend**  
-🟩🟩🟩🟩⬜ HTML / CSS  
-🟩🟩🟩🟩⬜ JavaScript  
-🟩🟩🟩⬜⬜ React  
-
-**Backend**  
-🟩🟩🟩⬜⬜ Node.js  
-🟩🟩⬜⬜⬜ Java  
-
-**Programming**  
-🟩🟩🟩🟩⬜ Python  
-🟩🟩🟩⬜⬜ Data Structures  
 
 
 
