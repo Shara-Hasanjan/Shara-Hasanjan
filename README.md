@@ -78,7 +78,7 @@
 ### ✨ Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓%20Computer%20Science%20Undergraduate-IIT%20Sri%20Lanka-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎓%20Computer%20Science%20Undergraduate-uow%20-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🚀%20Project-WorkzUp%20SDGP-success?style=for-the-badge"/>
 </p>
 
