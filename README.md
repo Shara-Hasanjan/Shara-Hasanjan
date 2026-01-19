@@ -77,11 +77,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Shara-Hasanjan&theme=onedark&no-frame=true&row=1&column=5"/>
 </p>
 
----
-
-### 🐍 Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shara-Hasanjan/Shara-Hasanjan/output/snake.svg" alt="snake animation"/>
-</p>
 
