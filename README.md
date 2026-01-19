@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm A.T.H Ishara Hasanjan</h1>
-<h3 align="center">Computer Science Undergraduate | IIT Sri Lanka</h3>
+<h3 align="center">Computer Science Undergraduate | Informatics Institute of Technology (IIT)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shara-Hasanjan&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -8,10 +8,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 First-year Computer Science undergraduate at Informatics Institute of Technology  
-- 🚀 Working on academic and personal software projects  
-- 💡 Interested in Web Development, Java, and Data-driven systems  
-- 📍 From Galle, currently in Colombo
+- 🎓 First-year Computer Science undergraduate at Informatics Institute of Technology (IIT)  
+- 🚀 Passionate about Web Development and Software Engineering  
+- 💡 Interested in building real-world systems and data-driven applications  
+- 📍 From Galle, currently based in Colombo
 
 ---
 
@@ -23,26 +23,32 @@
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
-🔹 **WorkzUp – Job & Skill Matching Platform (SDGP Project)**  
-- Web platform connecting job seekers with short-term work opportunities  
-- Tech: React, Node.js, MongoDB  
-- Role: Frontend + System Design  
-- 🔗 Portfolio: https://YOUR-PORTFOLIO-LINK.vercel.app
+#### 🔹 WorkzUp – Job & Skill Matching Platform (SDGP Project)
+- Web platform connecting job seekers with short-term and skill-based job opportunities  
+- Features: User authentication, job posting, skill-based filtering  
+- Tech Stack: React, Node.js, MongoDB  
+- Role: Frontend development, UI design, system documentation
+
+#### 🔹 Personal Web Projects
+- Responsive portfolio website  
+- Mini Java and Python academic projects  
+- UI-focused web applications using HTML, CSS, and JavaScript  
+- 🔗 Portfolio: **https://isharahasanjan.vercel.app/**
 
 ---
 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aakashwijee92@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK.vercel.app">
+  <a href="https://isharahasanjan.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -52,12 +58,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shara-Hasanjan&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shara-Hasanjan&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Shara-Hasanjan&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -65,7 +71,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shara-Hasanjan&theme=onedark&row=1&column=6" />
 </p>
 
 ---
@@ -73,7 +79,7 @@
 ### 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg">
-  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shara-Hasanjan/Shara-Hasanjan/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shara-Hasanjan/Shara-Hasanjan/output/snake.svg">
+  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/Shara-Hasanjan/Shara-Hasanjan/output/snake.svg">
 </picture>
