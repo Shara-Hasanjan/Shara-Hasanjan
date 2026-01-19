@@ -9,7 +9,6 @@
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science undergraduate at University Of Westminster 
-- 🚀 Passionate about Web Development and Software Engineering  
 - 💡 Interested in building real-world systems and data-driven applications  
 - 📍 From Galle, currently based in Colombo
 
