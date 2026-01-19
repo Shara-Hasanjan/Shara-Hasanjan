@@ -75,13 +75,16 @@
 
 ---
 
-### 📌 Highlights
+### ✨ Highlights
 
-- ✅ Active undergraduate contributor  
-- ✅ Working on real-world academic projects  
-- ✅ Experience with React, Java, and backend fundamentals  
-- ✅ Strong interest in full-stack development
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓%20Computer%20Science%20Undergraduate-IIT%20Sri%20Lanka-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀%20Project-WorkzUp%20SDGP-success?style=for-the-badge"/>
+</p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/⚙️%20Tech%20Focus-React%20%7C%20Java%20%7C%20Node.js-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📚%20Learning-DSA%20%7C%20Web%20Dev-purple?style=for-the-badge"/>
+</p>
 
 
