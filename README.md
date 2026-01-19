@@ -39,31 +39,35 @@
 
 ---
 
-### 📫 Connect With Me
+
+
+---
+
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:aakashwijee92@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://isharahasanjan.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shara-Hasanjan&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shara-Hasanjan&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shara-Hasanjan&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shara-Hasanjan&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shara-Hasanjan&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Shara-Hasanjan&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -71,15 +75,14 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shara-Hasanjan&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shara-Hasanjan&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
 ### 🐍 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shara-Hasanjan/Shara-Hasanjan/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shara-Hasanjan/Shara-Hasanjan/output/snake.svg">
-  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/Shara-Hasanjan/Shara-Hasanjan/output/snake.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shara-Hasanjan/Shara-Hasanjan/output/snake.svg" alt="snake animation"/>
+</p>
+
