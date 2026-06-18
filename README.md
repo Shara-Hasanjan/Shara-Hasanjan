@@ -12,7 +12,7 @@
 - 💡 Interested in building real-world systems and data-driven applications  
 - 📍 From Galle, currently based in Colombo
 
-- 🔗 Portfolio: **https://isharahasanjan.vercel.app/**
+- 🔗 Portfolio: **https://www.isharahasanjan.me/**
 
 ---
 
